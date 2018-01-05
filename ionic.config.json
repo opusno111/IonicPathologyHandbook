@@ -1,0 +1,8 @@
+{
+  "name": "ionicpathhandbook",
+  "app_id": "8d951685",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
